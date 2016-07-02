@@ -29,4 +29,4 @@
 
 海尔无人工厂
 
-三一18号厂房
+[三一18号厂房](http://www.e-works.net.cn/report/2015intelligent/2015intelligent.html)
