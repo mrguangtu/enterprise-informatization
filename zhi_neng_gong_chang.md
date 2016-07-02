@@ -10,8 +10,8 @@
 
 ###智能工厂
 
-####Smart
+####Smart Factory
 
-####Intelligent
+####Intelligent Factory
 
 ## 智能工厂里包括什么东西？
