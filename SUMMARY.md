@@ -9,4 +9,5 @@
 * [高性能计算-都有哪些软件，分别是干啥的？](gao-xing-neng-ji-7b97-du-you-na-xie-ruan-jian-ff0c-fen-bie-shi-gan-sha-de-ff1f.md)
 * [MSC公司的SDM系统](mscgong-si-de-sdm-xi-tong.md)
 * [边缘计算](bian_yuan_ji_suan.md)
+* [建设商用软件的那些坑](jian_she_shang_yong_ruan_jian_de_yi_xie_keng.md)
 
