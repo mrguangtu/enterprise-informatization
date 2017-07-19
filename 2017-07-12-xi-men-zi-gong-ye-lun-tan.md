@@ -22,4 +22,5 @@
 
 #西门子似乎并没有按照云的方式打造各种软件产品。是因为用户量还不够大么？
 
-附：[会议资料下载地址](http://www.vogel.com.cn/top/2017/sim&test/index.html)
+附：[产品介绍下载地址](http://www.vogel.com.cn/top/2017/sim&test/index.html)
+	[会议资料下载地址](http://pan.baidu.com/s/1c2EikSw) 密码：leh5
