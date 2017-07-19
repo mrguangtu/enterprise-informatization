@@ -23,8 +23,9 @@
 
 * [关于工作文件管理的一些思考](guan_yu_wen_jian_guan_li_de_yi_xie_si_kao.md)
 
-## 向行业学习
+## 活到老学到老
 
 * [边缘计算](bian_yuan_ji_suan.md)
 * [2017-07-12 西门子工业论坛](2017-07-12-xi-men-zi-gong-ye-lun-tan.md)
+* [工作上几个常用的Excel技巧](excel_tips.md)
 
