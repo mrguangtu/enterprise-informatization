@@ -18,6 +18,7 @@
 * [一个朝阳职业：企业信息化](yi_ge_zhao_yang_zhi_ye_ff1a_qi_ye_xin_xi_hua.md)
 * [MSC公司的SDM系统](mscgong-si-de-sdm-xi-tong.md)
 * [建设商用软件的那些坑](jian_she_shang_yong_ruan_jian_de_yi_xie_keng.md)
+* [软件管理](software-management.md)
 
 ## 工作方法论
 
