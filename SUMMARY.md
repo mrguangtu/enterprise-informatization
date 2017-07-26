@@ -10,8 +10,8 @@
 
 ## 高性能计算
 
-* [高性能计算-在服务器端进行前后处理](gao-xing-neng-ji-7b97-zai-fu-wu-qi-duan-jin-xing-qian-hou-chu-li.md)
-* [高性能计算-都有哪些软件，分别是干啥的？](gao-xing-neng-ji-7b97-du-you-na-xie-ruan-jian-ff0c-fen-bie-shi-gan-sha-de-ff1f.md)
+* [高性能计算-在服务器端进行前后处理](hpc/gao-xing-neng-ji-7b97-zai-fu-wu-qi-duan-jin-xing-qian-hou-chu-li.md)
+* [高性能计算-都有哪些软件，分别是干啥的？](hpc/gao-xing-neng-ji-7b97-du-you-na-xie-ruan-jian-ff0c-fen-bie-shi-gan-sha-de-ff1f.md)
 
 ## 企业信息化
 
