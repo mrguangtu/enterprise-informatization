@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [深入理解研发信息化](README.md)
 
 ## 智能制造
 
