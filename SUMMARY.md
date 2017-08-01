@@ -12,6 +12,7 @@
 
 * [高性能计算-在服务器端进行前后处理](hpc/gao-xing-neng-ji-7b97-zai-fu-wu-qi-duan-jin-xing-qian-hou-chu-li.md)
 * [高性能计算-都有哪些软件，分别是干啥的？](hpc/gao-xing-neng-ji-7b97-du-you-na-xie-ruan-jian-ff0c-fen-bie-shi-gan-sha-de-ff1f.md)
+* [为什么做出来的报表没啥用？](wei-shen-me-zuo-chu-lai-de-bao-biao-mei-sha-yong.md)
 
 ## 企业信息化
 
