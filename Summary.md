@@ -8,6 +8,7 @@
 * [高性能计算-都有哪些软件，分别是干啥的？](Topic03-HPC/gao-xing-neng-ji-7b97-du-you-na-xie-ruan-jian-ff0c-fen-bie-shi-gan-sha-de-ff1f.md)
 * [服务好客户-为什么做出来的报表没啥用？](Topic03-HPC/wei-shen-me-zuo-chu-lai-de-bao-biao-mei-sha-yong.md)
 * [现在的高性能计算市场存在什么问题](Topic03-HPC/big-players-in-hpc-market.md)
+* [高性能计算那些内行不会告诉你的秘密](Topic03-HPC\HPC_Secrets.md)
 
 ## 企业信息化
 
