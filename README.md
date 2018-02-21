@@ -22,4 +22,7 @@
 
 你的鼓励和支持，是我持续写作的动力。谢谢！
 
-![请使用支付宝](http://osivibnve.bkt.clouddn.com/17-7-19/77900258.jpg)
+![请使用支付宝](/Images/donate-ali.jpg)
+
+
+
