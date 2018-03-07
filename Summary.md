@@ -27,6 +27,7 @@
 * [关于工作文件管理的一些思考](Topic04-Office_Skills/guan_yu_wen_jian_guan_li_de_yi_xie_si_kao.md)
 * [工作上几个常用的Excel技巧](Topic04-Office_Skills/excel_tips.md)
 * [专业的工具，做专业的事](Topic04-Office_Skills/专业的工具，做专业的事.md)
+* [计划任务索引共享文件夹提升everyting启动速度](Topic04-Office_Skills/计划任务索引共享文件夹提升everyting启动速度.md)
 
 ## 行业观察
 
