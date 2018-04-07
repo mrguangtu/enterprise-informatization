@@ -12,6 +12,7 @@
 * [企业高性能计算混合云的一种形式](Topic03-HPC\HPC_Hybrid_Cloud.md)
 * [什么是云计算中心，如何把一个计算中心升级为云计算中心？](Topic03-HPC\Upgrade-to-Cloud-Data-Center.md)
 * [HPC定制开发功能清单](Topic03-HPC\HPC定制开发功能清单.md)
+* [下一代的工业高性能计算平台](Topic03-HPC\下一代的工业高性能计算平台.md)
 
 ## 企业信息化
 
