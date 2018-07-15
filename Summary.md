@@ -37,6 +37,8 @@
 * [2017-07-12 西门子工业论坛](Topic06-Observations/2017-07-12-xi-men-zi-gong-ye-lun-tan.md)
 * [MSC公司的SDM系统](Topic06-Observations/mscgong-si-de-sdm-xi-tong.md)
 * [如何用硬知识赚钱](Topic06-Observations/如何用硬知识赚钱.md)
+* [关于初心的思考](Topic06-Observations/关于初心的思考.md)
+
 
 # 基础概念
 
